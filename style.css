@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+color: #ffd700
+}
+
+body{
+  background-color: #ff1493
+}
+
+
+.tekest{
+  text-align: center;
+  color: blue
+}
+
+.kevin{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px
+
+}
